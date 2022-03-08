@@ -1,0 +1,83 @@
+{       
+    "data": [    
+                {
+                "_id": "5ff5bdec52210127cba9a4bd",
+                "title":"Contact",
+                "myname": "Contact Details",
+                "main_image": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/contactpage.png",  
+                "under_logo_title": "Contact Details",
+                "under_logo_row": [                                                          
+                            {
+                                "id": 1,
+                                "name": "Email",
+                                "icon": "email"                           
+                            },                                                             
+                            {
+                                "id": 2,
+                                "name": "GutHub",
+                                "icon": "github"                               
+                            },
+                            {
+                                "id": 3,
+                                "name": "LinkedIn",
+                                "icon": "linkedin"                               
+                            }
+                                       
+                    
+                                  ],  
+                "discription": "Contact me at abhinash.email@gmail.com, You can also contact me through LinkedIn and GitHub. details as follows.",       
+                        "bottum_tag": [                                                          
+                                {
+                                        "id": 1,
+                                        "name": "Email"                                                  
+                                },                                                         
+                                {
+                                        "id": 2,
+                                        "name": "Social"                              
+                                }                                           
+                                ],   
+                "bottum_logo": [                                                          
+                        {
+                                "id": 1,
+                                "name": "Email" ,
+                                "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/gmail.png"                      
+                        },                                                     
+                        {
+                                "id": 2,
+                                "name": "LinkedIn",  
+                                "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/linkedin.png"                           
+                        } ,  
+                        {
+                                "id": 3,
+                                "name": "GitHub",  
+                                "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/gihub.png"                           
+                        }                                         
+                                  ],       
+                 "above_card_name": "Contact here"  ,                  
+                 "bottum_card": [                                                          
+                    {
+                            "id": 1,
+                            "name": "Gmail" ,
+                            "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/gmail.png",
+                            "details": "abhinash.email@gmail.com",
+                            "time":"Email id"                       
+                    },                                                     
+                    {
+                            "id": 2,
+                            "name": "LinkedIn",  
+                            "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/linkedin.png",
+                            "details": "abhinash-pallepogu",
+                            "time":"LinkedIn Profile"                            
+                    } ,  
+                    {
+                            "id": 3,
+                            "name": "GitHub",  
+                            "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/gihub.png",
+                            "details": "abhinash9177",
+                            "time":"Repositories"                            
+                    }                                         
+                              ]      
+                
+                }
+           ]
+    }

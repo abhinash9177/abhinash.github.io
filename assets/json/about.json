@@ -1,0 +1,158 @@
+{       
+    "data": [    
+                {
+                "_id": "5ff5bdec52210127cba9a4bd",
+                "title":"About Me",
+                "myname": "Abhinash",
+                "main_image": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/abhinash_image.jpg",  
+                "under_logo_title": "Languages and Skills",
+                "under_logo_row": [                                                          
+                            {
+                                "id": 1,
+                                "name": "Flutter",
+                                "icon": "code"                          
+                            },                                                             
+                            {
+                                "id": 2,
+                                "name": "Dart",
+                                "icon": "code"                              
+                            },
+                            {
+                                "id": 3,
+                                "name": "React",
+                                "icon": "code"                              
+                            },
+                            {
+                                "id": 4,
+                                "name": "Developer",
+                                "icon":"code"                              
+                             },
+                             {
+                                "id": 5,
+                                "name": "Adobe" ,
+                                "icon":"design"                              
+                             },
+                             {
+                                "id": 6,
+                                "name": "Designer",
+                                "icon":"design"                               
+                             }             
+                    
+                                  ],  
+                "discription": "Hi i'm Abhinash Pallepogu i am a mobile application developer i use flutter framework to develope mobile applications for both Android and IOS",       
+                        "bottum_tag": [                                                          
+                                {
+                                        "id": 1,
+                                        "name": "Skills"                                                  
+                                },                                                         
+                                {
+                                        "id": 2,
+                                        "name": "Softwares"                              
+                                }                                           
+                                ],   
+                "bottum_logo": [                                                          
+                        {
+                                "id": 1,
+                                "name": "flutter" ,
+                                "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/flutterlogo.png"                      
+                        },                                                     
+                        {
+                                "id": 2,
+                                "name": "dart",  
+                                "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/dartlogo.png"                           
+                        } ,  
+                        {
+                                "id": 3,
+                                "name": "React",  
+                                "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/reactlogo.png"                           
+                        },
+                        {
+                                "id": 4,
+                                "name": "JavaScript",  
+                                "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/javascript.png"                           
+                        },
+                        {
+                                "id": 5,
+                                "name": "HTML",  
+                                "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/html.png"                           
+                        }, 
+                        {
+                                "id": 6,
+                                "name": "CSS",  
+                                "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/css.png"                           
+                        },
+                        {
+                                "id": 7,
+                                "name": "Cinmea4d",  
+                                "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/cinema4d.png"                           
+                        }, 
+                        {
+                                "id": 8,
+                                "name": "Adobe",  
+                                "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/adobe.png"                           
+                        }  
+                                                                
+                                  ],       
+                 "above_card_name": "What i know"  ,                  
+                 "bottum_card": [                                                          
+                    {
+                            "id": 1,
+                            "name": "Flutter" ,
+                            "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/flutterlogo.png" ,  
+                            "details": "By using Flutter i have built so many apps and they can work in both offline and online",
+                            "time":"2018"                   
+                    },                                                     
+                    {
+                            "id": 2,
+                            "name": "React",  
+                            "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/reactlogo.png",
+                            "details": "Using React Js I have built few webapps for clients ",
+                            "time":"2021"                            
+                    } , 
+                    {
+                            "id": 3,
+                            "name": "HTML",  
+                            "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/html.png",
+                            "details": "I have built so many Weibsites with HTML & CSS since my graduation",
+                            "time":"2015"                            
+                    },  
+                    {
+                            "id": 4,
+                            "name": "Firebase",  
+                            "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/firebase.png",
+                            "details": "Developed android applications for clients using firebase as a backend for storage and athentication service like login with google or facebook like platforms.",
+                            "time":"2020"                            
+                    },
+                    {
+                            "id": 5,
+                            "name": "Adobe Photoshop",  
+                            "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/photoshop.png",
+                            "details": "I have done graphic designs, titles and posters for few shotfilms. Designed templates for companies using photoshop. ",
+                            "time":"2016"                            
+                    },
+                    {
+                            "id": 6,
+                            "name": "Adobe After Effects",  
+                            "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/aftereffects.png",
+                            "details": "I have done VFX for few shotfilms and got an award in Cult Critic International Movie Awards held in Kolkatha for VFX Catogery ",
+                            "time":"2016"                            
+                    },
+                    {
+                            "id": 7,
+                            "name": "Adobe Premiere Pro",  
+                            "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/premierepro.png",
+                            "details": "I have done Editing for few shotfilms and they got good views in Youtube ",
+                            "time":"2016"                            
+                    },
+                    {
+                            "id": 8,
+                            "name": "Cinema 4d",  
+                            "image_url": "https://raw.githubusercontent.com/abhinash9177/portfolio/main/assets/images/uploads/cinema4d.png",
+                            "details": "I have done VfX for few shotfilms using cinema 4d for Visual Effects and 3d modeling and they got good views in Youtube ",
+                            "time":"2016"                            
+                    }                                          
+                              ]      
+                
+                }
+           ]
+    }
